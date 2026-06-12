@@ -1,0 +1,11 @@
+# Provenance: original files from https://github.com/SheetJS/enron_xls (Enron Corpus, public record)
+trading-curves-bom-fom.xls <- https://raw.githubusercontent.com/SheetJS/enron_xls/master/edrm/native_000%2F3.1131604.AR4LNXQJNHWM35CDJOTJXOMOVEQGRH2DA.1.xls
+weather-forecast-vs-actual-west-cities.xls <- https://raw.githubusercontent.com/SheetJS/enron_xls/master/edrm/native_000%2F3.1132405.NR1HAOS2TXHLSRGWDEZU2WQ1O4JOM3H1A.1.xls
+trader-performance-ytd-2001.xls <- https://raw.githubusercontent.com/SheetJS/enron_xls/master/edrm/native_000%2F3.1133002.LU41OVU14UCSEZLJQCVRKUMO04HDAMB1B.1.xls
+project-wolverine-asset-valuation-model.xls <- https://raw.githubusercontent.com/SheetJS/enron_xls/master/edrm/native_000%2F3.1137135.DJOT2RQK1EBHYBPJWW0BE32WWHLCTKZ3B.1.xls
+cost-center-budget-rcr.xls <- https://raw.githubusercontent.com/SheetJS/enron_xls/master/edrm/native_000%2F3.1139088.FVTWZUWEF5BKJKXDOFZXJJTARF2ZP3WGB.1.xls
+counterparty-approvals-by-state.xls <- https://raw.githubusercontent.com/SheetJS/enron_xls/master/edrm/native_000%2F3.1158412.E3UL1WEJVT1ZTV53QLWHEJ0LN0QNGBOEA.1.xls
+pipeline-revenues-by-customer.xls <- https://raw.githubusercontent.com/SheetJS/enron_xls/master/edrm/native_000%2F3.1171979.NAMXSF1DAFTBW5YNFR2CWV5GOT3ELWWBB.1.xls
+sap-ap-aging-export.xls <- https://raw.githubusercontent.com/SheetJS/enron_xls/master/edrm/native_000%2F3.1175231.LLU5TAAWJIY1SQWHR03ZOEILS0DNXAT2A.2.xls
+oneok-gas-imbalance-monthly.xls <- https://raw.githubusercontent.com/SheetJS/enron_xls/master/edrm/native_000%2F3.1177114.BLXXSDQCVJLLVVNQWLAU4WXFSBBNBPIWA.1.xls
+gas-control-oncall-schedule.xls <- https://raw.githubusercontent.com/SheetJS/enron_xls/master/edrm/native_000%2F3.1177560.GAV12H4S2EHEQJZTISGTASUJJSTKMN3BB.1.xls

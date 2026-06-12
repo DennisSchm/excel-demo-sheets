@@ -1,0 +1,4 @@
+# Smartsheet templates are fetched locally via ./download_templates.sh,
+# not committed (free to use, not to redistribute).
+smartsheet-*.xlsx
+*.xlsx.invalid
