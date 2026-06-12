@@ -2,3 +2,9 @@
 # not committed (free to use, not to redistribute).
 smartsheet-*.xlsx
 *.xlsx.invalid
+
+# Local-only working material (workshop notes, scorecards, test runs)
+.private/
+
+# macOS
+.DS_Store
